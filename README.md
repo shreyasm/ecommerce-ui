@@ -10,3 +10,5 @@ First cut -
 2. To display list of orders retrieved from API.
 
 There should be two buttons, selecting products should fetch products, selecting orders should fetch orders.
+
+Create travis CI pipeline to compile, run tests and create docker image and push it to ECR.
